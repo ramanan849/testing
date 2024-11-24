@@ -1,2 +1,3 @@
 # Assignment: git <br>
 Just doing my assignment...
+<br> Purpose: <br> - To master Git
